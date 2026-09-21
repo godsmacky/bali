@@ -3,10 +3,12 @@
 A single-page interactive family itinerary for the Bali 2026 trip.
 
 ## Included
-- Responsive itinerary with region filters
-- Arrival countdown with saved dates
-- Persistent family packing checklist
-- Share button and map links
+- Responsive itinerary with family-group filters
+- Live countdown to departure
+- "Today" panel that surfaces the current day's plan automatically during the trip
+- Google Maps links on every place, activity and restaurant
+- Tap-to-call emergency and hotel contacts
+- Share button
 - No build step: open `index.html` directly or deploy with GitHub Pages
 
 ## GitHub Pages
